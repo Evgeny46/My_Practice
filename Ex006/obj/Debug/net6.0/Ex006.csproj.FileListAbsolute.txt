@@ -1,0 +1,16 @@
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\bin\Debug\net6.0\Ex006.exe
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\bin\Debug\net6.0\Ex006.deps.json
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\bin\Debug\net6.0\Ex006.runtimeconfig.json
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\bin\Debug\net6.0\Ex006.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\bin\Debug\net6.0\ref\Ex006.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\bin\Debug\net6.0\Ex006.pdb
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.GlobalUsings.g.cs
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.csproj.AssemblyReference.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.AssemblyInfoInputs.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.AssemblyInfo.cs
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\ref\Ex006.dll
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.pdb
+C:\Users\Евгений\OneDrive\Рабочий стол\Программирование 2022\My_Practice\Examples\Ex006\obj\Debug\net6.0\Ex006.genruntimeconfig.cache
